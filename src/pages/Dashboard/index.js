@@ -13,7 +13,7 @@ function Dashboard() {
       <Row>
         <ButtonsGroup></ButtonsGroup>
       </Row>
-      <Row>
+      <Row style={{ height: "50vh" }}>
         <Col lg="7" md="7">
           <Map></Map>
         </Col>
