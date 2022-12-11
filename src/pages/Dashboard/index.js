@@ -22,10 +22,10 @@ function Dashboard() {
         </Col>
       </Row>
       <Row>
-        <Col lg="6" md="6">
+        <Col lg="7" md="7">
           <ReportTicket></ReportTicket>
         </Col>
-        <Col lg="6" md="6">
+        <Col lg="5" md="5">
           <Chart></Chart>
         </Col>
       </Row>
